@@ -1,33 +1,12 @@
 # LoRaWAN starter pack
 
-# Technology
+This is a repository meant for those that are looking to learn more about LoRa
+and LoRaWAN.
 
-Survey
+The `LoRa and LoRaWAN` folder contains pointers on how to understand the technology.
 
-## LoRa
+The `Simulation` folder contains resources on ns-3, and some pointers on the
+ns-3 LoRaWAN simulation module developed at the University of Padova (available
+[on Github](https://github.com/signetlabdei/lorawan)).
 
-### Modulation basics
-
-### SX1301
-
-### SX1272
-
-## LoRaWAN
-
-### Standard
-
-### Regional parameters
-
-# Simulation
-
-## ns-3
-
-### Tutorial
-
-### Manual
-
-## lorawan module
-
-### Github
-
-### Theses
+Finally, in `Reference` datasheets and the LoRaWAN standard can be found.
